@@ -1,0 +1,1 @@
+This project will utilize langchain and gpt-3.5-turbo to allow users to query their lifetime spotify data using natural language.
